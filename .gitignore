@@ -1,0 +1,6 @@
+# 고객·주문 원본 데이터는 올리지 않는다
+*.csv
+*.xls
+*.xlsx
+# 옵시디언 개인 화면 상태
+.obsidian/workspace*.json
